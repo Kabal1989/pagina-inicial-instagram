@@ -122,11 +122,11 @@ not-account {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(./images/apple_store.png);
+    background-image: url(./src/images/apple_store.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(./images/google_play.png);
+    background-image: url(./src/images/google_play.png);
 }
 
 /* Responsive */
